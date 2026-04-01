@@ -1,23 +1,71 @@
-## Olá bem-vindo ao meu perfil 👋
+# 👋 Olá, bem-vindo ao meu perfil
 
-- > Meu nome é Ítalo César
-- > Analista de dados 
-- > João Pessoa, Brasil
+## 🚀 Sobre mim
+**Ítalo César**  
+💻 **Desenvolvedor Full-Stack**  
+📊 **Cientista de Dados**  
+📍  **João Pessoa, Brasil**  
 
-Sou estudante de Ciência de Dados, com amplo conhecimento em programação, análise de dados e otimização de processos,
-busco aprimorar continuamente minhas habilidades e criar soluções inovadoras e eficientes, sempre alinhadas a objetivos estratégicos e orientadas para resultados.
+Sou formado em **Ciência de Dados** e atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)**. Tenho experiência em **desenvolvimento full-stack, análise de dados, ETL, APIs REST e dashboards**.
 
-## Skills
-  <div style="display: inline_block">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  </div>
+Busco criar soluções **escaláveis, eficientes e orientadas a resultados**, sempre conectando **tecnologia + negócio + dados** para gerar impacto real.
 
-## Contatos
-  <div> 
-  <a href="https://www.linkedin.com/in/%C3%ADtalo-c%C3%A9sar-queiroz/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:italocesarqueiroz07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+---
+
+## 🛠️ Stack Principal
+
+### 💻 Desenvolvimento
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Vue" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="NextJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Laravel" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="FastAPI" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+</div>
+
+### 🗄️ Banco de Dados & Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
+
+### 📈 Dados & BI
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="PowerBI" height="40" width="50" src="https://img.icons8.com/color/48/power-bi.png">
+</div>
+
+---
+
+## 🎯 Especialidades
+- ⚡ Desenvolvimento **Full-Stack Web**
+- 🔌 Criação de **APIs RESTful**
+- 🧠 **Análise e visualização de dados**
+- 📊 Construção de **dashboards e KPIs**
+- 🗃️ **SQL, modelagem e ETL**
+- 🚀 Otimização de processos e performance
+- 📈 Storytelling com dados para decisão estratégica
+
+---
+
+## 🌐 Contato
+<div>
+  <a href="https://www.linkedin.com/in/%C3%ADtalo-c%C3%A9sar-queiroz/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:italocesarqueiroz07@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://italocesar.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</div>
