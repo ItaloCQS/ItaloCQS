@@ -1,18 +1,23 @@
-# 👋 Olá, bem-vindo ao meu perfil
-
-## 🚀 Sobre mim
-**Ítalo César**  
-💻 **Desenvolvedor Full-Stack**  
-📊 **Cientista de Dados**  
-📍  **João Pessoa, Brasil**  
-
-Sou formado em **Ciência de Dados** e atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)**. Tenho experiência em **desenvolvimento full-stack, análise de dados, ETL, APIs REST e dashboards**.
-
-Busco criar soluções **escaláveis, eficientes e orientadas a resultados**, sempre conectando **tecnologia + negócio + dados** para gerar impacto real.
+<div align="center">
+  <h1>Olá, eu sou o Ítalo César! 👋</h1>
+  <h3>💻 Desenvolvedor Full-Stack | 📊 Cientista de Dados</h3>
+  <p>📍 João Pessoa, Paraíba, Brasil</p>
+</div>
 
 ---
 
-## 🛠️ Stack Principal
+## 👨‍💻 Sobre Mim
+
+Sou formado em **Ciência de Dados** e atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)**. Tenho paixão por construir soluções que unem **tecnologia, negócios e dados** para gerar impacto real.
+
+- 🔭 Atualmente focado no desenvolvimento de **aplicações web e sistemas SaaS**.
+- 🧠 Experiência sólida com **Análise de Dados, ETL, APIs REST e criação de Dashboards**.
+- 🌱 Busco sempre criar soluções **escaláveis, eficientes e orientadas a resultados**.
+
+---
+
+## 🚀 Stack Principal
+Principais tecnologias e ferramentas que utilizo no meu dia a dia:
 
 ### 💻 Desenvolvimento
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -71,15 +76,16 @@ Busco criar soluções **escaláveis, eficientes e orientadas a resultados**, se
 
 ---
 
-## 🌐 Contato
-<div>
-  <a href="https://www.linkedin.com/in/%C3%ADtalo-c%C3%A9sar-queiroz/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:italocesarqueiroz07@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://italocesar.pages.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
+<div align="center">
+  <h2>🌐 Vamos Conversar?</h2>
+  <p>Fique à vontade para entrar em contato para parcerias, projetos ou para trocarmos ideias sobre tecnologia, desenvolvimento e dados!</p>
+  
+<div align="center">
+  <a href="https://www.linkedin.com/in/%C3%ADtalo-c%C3%A9sar-queiroz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn do Ítalo" height="32" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:italocesarqueiroz07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" alt="E-mail do Ítalo" height="32" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://italocesar.pages.dev" target="_blank"><img src="https://img.shields.io/badge/Portfólio-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Portfólio do Ítalo" height="32" /></a>
+</div>
+  
 </div>
