@@ -81,11 +81,11 @@ Principais tecnologias e ferramentas que utilizo no meu dia a dia:
   <p>Fique à vontade para entrar em contato para parcerias, projetos ou para trocarmos ideias sobre tecnologia, desenvolvimento e dados!</p>
   
 <div align="center">
-  <a href="https://www.linkedin.com/in/%C3%ADtalo-c%C3%A9sar-queiroz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn do Ítalo" height="32" /></a>
+  <a href="https://www.linkedin.com/in/italo-cesar-queiroz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn do Ítalo" height="32" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:italocesarqueiroz07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" alt="E-mail do Ítalo" height="32" /></a>
+  <a href="mailto:italocesarqueiroz07@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" alt="E-mail do Ítalo" height="32" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://italocesar.pages.dev" target="_blank"><img src="https://img.shields.io/badge/Portfólio-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Portfólio do Ítalo" height="32" /></a>
+  <a href="https://italocesar.pages.dev"><img src="https://img.shields.io/badge/Portfólio-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Portfólio do Ítalo" height="32" /></a>
 </div>
   
 </div>
